@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E8TLH0X)
 ## LaraClassified - Classified Ads Web Application
 
 LaraClassified is a Classified CMS, a powerfull modulable app and has a fully responsive design. Built with Laravel and Bootstrap. It is packed with lots of features.
